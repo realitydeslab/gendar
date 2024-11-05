@@ -1,5 +1,5 @@
 # GEND.AR
-GEND.AR: Privacy-Preserving Gender-Inclusive Matching in Extended Reality for Spontaneous Social Encounters Using Secure Two Party Computation
+GEND.AR: Privacy-Preserving Gender-Inclusive In-Person Social Discovery Using Secure Multiparty Computation in Extended Reality
 
 ## Slogan
 
