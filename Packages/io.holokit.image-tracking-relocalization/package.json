@@ -1,0 +1,35 @@
+{
+  "name": "io.holokit.image-tracking-relocalization",
+  "displayName": "Image Tracking Relocalization",
+  "version": "0.2.1",
+  "unity": "2022.3",
+  "description": "This Unity plugin relocalizes AR coordinate systems across one or more devices using enhanced image tracking. It achieves stability by processing a sequence of consecutively tracked image poses, ensuring precise and consistent AR experiences.",
+  "keywords": [
+    "ar",
+    "xr",
+    "arfoundation"
+  ],
+  "author": {
+    "name": "Reality Design Lab",
+    "email": "dev@reality.design",
+    "url": "https://reality.design"
+  },
+  "dependencies": {
+    "com.unity.xr.arfoundation": "5.1.2",
+    "com.unity.xr.arkit": "5.1.2",
+    "com.unity.netcode.gameobjects": "1.8.1",
+    "com.unity.shadergraph": "14.0.10"
+  },
+  "samples": [
+    {
+      "displayName": "External Marker Relocalization",
+      "description": "A demonstration of relocalization using external marker",
+      "path": "Samples~/ExternalMarkerRelocalization"
+    },
+    {
+      "displayName": "Dynamically Rendered Marker Relocalization",
+      "description": "A demonstration of relocalization using dynamically rendered marker for a multiplayer AR project",
+      "path": "Samples~/DynamicallyRenderedMarkerRelocalization"
+    }
+  ]
+}
