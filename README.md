@@ -24,14 +24,14 @@ As an [experiential futures](https://dl.designresearchsociety.org/drs-conference
 
 ## Techological Stack 
 
-* Game Engine: Unity 6 LTS
+* Game Engine: [Unity 6 LTS](https://unity.com/releases/unity-6-releases)
 * Hardware:
-  * HoloKit XR headset for spatial computing
+  * [HoloKit](https://holokit.io) MR headset for spatial computing
   * iPhone 15 Pro for computational processing
 * Network Layer: Apple's [MultipeerConnectivity](https://developer.apple.com/documentation/multipeerconnectivity)
 * Identity Verification (Zero-Knowledge Proof): 
-  * WorldCoin (Bio-verification) 
-  * OpenPassport (Passport-proof identities)
+  * [WorldCoin](https://world.org/) (Bio-verification) 
+  * [OpenPassport](https://www.openpassport.app/) (Passport-proof identities)
 
 * Core Protocol: 
   * We employed a secure two-party computation (2PC) [Cursive Team's 2P-PSI](https://github.com/cursive-team/2P-PSI) that:
