@@ -1,5 +1,5 @@
 # GEND.AR
-[GEND.AR](https://gend.ar): Privacy-Preserving Gender-Inclusive In-Person Social Encounters Using Secure Multiparty Computation in Extended Reality
+[GEND.AR](https://gend.ar): Privacy-Preserving Gender-Inclusive Matching in Extended Reality for Spontaneous In-Person Encounters Using Secure Two Party Computation
 
 ## Slogan
 
