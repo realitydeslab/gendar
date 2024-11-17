@@ -32,6 +32,7 @@ As an [experiential futures](https://dl.designresearchsociety.org/drs-conference
 * Identity Verification (Zero-Knowledge Proof): 
   * [WorldCoin](https://world.org/) (Bio-verification) 
   * [OpenPassport](https://www.openpassport.app/) (Passport-proof identities)
+  * [ZkPassport](https://zkpassport.id/) (Zk Passport)
 
 * Core Protocol: 
   * We employed a secure two-party computation (2PC) [Cursive Team's 2P-PSI](https://github.com/cursive-team/2P-PSI) that:
